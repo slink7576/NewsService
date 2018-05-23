@@ -1,0 +1,4 @@
+C:\Users\Ыдш\documents\visual studio 2017\Projects\TestWebApiService\Entities\bin\Debug\EntitiesDAL.dll
+C:\Users\Ыдш\documents\visual studio 2017\Projects\TestWebApiService\Entities\bin\Debug\EntitiesDAL.pdb
+C:\Users\Ыдш\documents\visual studio 2017\Projects\TestWebApiService\Entities\obj\Debug\EntitiesDAL.dll
+C:\Users\Ыдш\documents\visual studio 2017\Projects\TestWebApiService\Entities\obj\Debug\EntitiesDAL.pdb

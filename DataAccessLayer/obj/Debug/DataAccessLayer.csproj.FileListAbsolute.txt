@@ -1,0 +1,14 @@
+c:\users\ыдш\documents\visual studio 2017\Projects\TestWebApiService\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+c:\users\ыдш\documents\visual studio 2017\Projects\TestWebApiService\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+c:\users\ыдш\documents\visual studio 2017\Projects\TestWebApiService\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+c:\users\ыдш\documents\visual studio 2017\Projects\TestWebApiService\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+c:\users\ыдш\documents\visual studio 2017\Projects\TestWebApiService\DataAccessLayer\bin\Debug\EntityFramework.dll
+c:\users\ыдш\documents\visual studio 2017\Projects\TestWebApiService\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\ыдш\documents\visual studio 2017\Projects\TestWebApiService\DataAccessLayer\bin\Debug\EntityFramework.xml
+c:\users\ыдш\documents\visual studio 2017\Projects\TestWebApiService\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\ыдш\documents\visual studio 2017\Projects\TestWebApiService\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+c:\users\ыдш\documents\visual studio 2017\Projects\TestWebApiService\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Ыдш\documents\visual studio 2017\Projects\TestWebApiService\DataAccessLayer\bin\Debug\EntitiesDAL.dll
+C:\Users\Ыдш\documents\visual studio 2017\Projects\TestWebApiService\DataAccessLayer\bin\Debug\EntitiesDAL.pdb
+C:\Users\Ыдш\documents\visual studio 2017\Projects\TestWebApiService\DataAccessLayer\bin\Debug\RssLibrary.dll
+C:\Users\Ыдш\documents\visual studio 2017\Projects\TestWebApiService\DataAccessLayer\bin\Debug\RssLibrary.pdb

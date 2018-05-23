@@ -1,0 +1,14 @@
+c:\users\ыдш\documents\visual studio 2017\Projects\TestWebApiService\UnitOfWorkLayer\obj\Debug\UnitOfWorkLayer.csprojResolveAssemblyReference.cache
+c:\users\ыдш\documents\visual studio 2017\Projects\TestWebApiService\UnitOfWorkLayer\bin\Debug\UnitOfWorkLayer.dll.config
+c:\users\ыдш\documents\visual studio 2017\Projects\TestWebApiService\UnitOfWorkLayer\bin\Debug\UnitOfWorkLayer.dll
+c:\users\ыдш\documents\visual studio 2017\Projects\TestWebApiService\UnitOfWorkLayer\bin\Debug\UnitOfWorkLayer.pdb
+c:\users\ыдш\documents\visual studio 2017\Projects\TestWebApiService\UnitOfWorkLayer\bin\Debug\EntityFramework.dll
+c:\users\ыдш\documents\visual studio 2017\Projects\TestWebApiService\UnitOfWorkLayer\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\ыдш\documents\visual studio 2017\Projects\TestWebApiService\UnitOfWorkLayer\bin\Debug\EntityFramework.xml
+c:\users\ыдш\documents\visual studio 2017\Projects\TestWebApiService\UnitOfWorkLayer\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\ыдш\documents\visual studio 2017\Projects\TestWebApiService\UnitOfWorkLayer\obj\Debug\UnitOfWorkLayer.dll
+c:\users\ыдш\documents\visual studio 2017\Projects\TestWebApiService\UnitOfWorkLayer\obj\Debug\UnitOfWorkLayer.pdb
+C:\Users\Ыдш\documents\visual studio 2017\Projects\TestWebApiService\UnitOfWorkLayer\bin\Debug\EntitiesDAL.dll
+C:\Users\Ыдш\documents\visual studio 2017\Projects\TestWebApiService\UnitOfWorkLayer\bin\Debug\EntitiesDAL.pdb
+C:\Users\Ыдш\documents\visual studio 2017\Projects\TestWebApiService\UnitOfWorkLayer\bin\Debug\RssLibrary.dll
+C:\Users\Ыдш\documents\visual studio 2017\Projects\TestWebApiService\UnitOfWorkLayer\bin\Debug\RssLibrary.pdb

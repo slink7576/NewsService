@@ -1,0 +1,14 @@
+c:\users\ыдш\documents\visual studio 2017\Projects\TestWebApiService\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+c:\users\ыдш\documents\visual studio 2017\Projects\TestWebApiService\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+c:\users\ыдш\documents\visual studio 2017\Projects\TestWebApiService\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+c:\users\ыдш\documents\visual studio 2017\Projects\TestWebApiService\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\Ыдш\documents\visual studio 2017\Projects\TestWebApiService\BusinessLogicLayer\bin\Debug\EntitiesDAL.dll
+C:\Users\Ыдш\documents\visual studio 2017\Projects\TestWebApiService\BusinessLogicLayer\bin\Debug\RssLibrary.dll
+C:\Users\Ыдш\documents\visual studio 2017\Projects\TestWebApiService\BusinessLogicLayer\bin\Debug\UnitOfWorkLayer.dll
+C:\Users\Ыдш\documents\visual studio 2017\Projects\TestWebApiService\BusinessLogicLayer\bin\Debug\EntityFramework.dll
+C:\Users\Ыдш\documents\visual studio 2017\Projects\TestWebApiService\BusinessLogicLayer\bin\Debug\EntitiesDAL.pdb
+C:\Users\Ыдш\documents\visual studio 2017\Projects\TestWebApiService\BusinessLogicLayer\bin\Debug\RssLibrary.pdb
+C:\Users\Ыдш\documents\visual studio 2017\Projects\TestWebApiService\BusinessLogicLayer\bin\Debug\UnitOfWorkLayer.pdb
+C:\Users\Ыдш\documents\visual studio 2017\Projects\TestWebApiService\BusinessLogicLayer\bin\Debug\UnitOfWorkLayer.dll.config
+C:\Users\Ыдш\documents\visual studio 2017\Projects\TestWebApiService\BusinessLogicLayer\bin\Debug\EntityFramework.xml
+C:\Users\Ыдш\documents\visual studio 2017\Projects\TestWebApiService\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache

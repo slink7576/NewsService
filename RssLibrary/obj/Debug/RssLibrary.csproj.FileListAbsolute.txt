@@ -1,0 +1,7 @@
+C:\Users\Ыдш\documents\visual studio 2017\Projects\TestWebApiService\RssLibrary\bin\Debug\RssLibrary.dll
+C:\Users\Ыдш\documents\visual studio 2017\Projects\TestWebApiService\RssLibrary\bin\Debug\RssLibrary.pdb
+C:\Users\Ыдш\documents\visual studio 2017\Projects\TestWebApiService\RssLibrary\obj\Debug\RssLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Ыдш\documents\visual studio 2017\Projects\TestWebApiService\RssLibrary\obj\Debug\RssLibrary.dll
+C:\Users\Ыдш\documents\visual studio 2017\Projects\TestWebApiService\RssLibrary\obj\Debug\RssLibrary.pdb
+C:\Users\Ыдш\documents\visual studio 2017\Projects\TestWebApiService\RssLibrary\bin\Debug\EntitiesDAL.dll
+C:\Users\Ыдш\documents\visual studio 2017\Projects\TestWebApiService\RssLibrary\bin\Debug\EntitiesDAL.pdb
